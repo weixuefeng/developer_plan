@@ -1,21 +1,4 @@
----
-title: Newton Developer Outreach Plan v0.4
----
-
-# \#unscrewtheworld
-
-### 2019-01-24
-
----
-
-# Contents
-
-1. Prerequisites
-1. Aims
-1. Newton Global Challenge
-1. Appendix
-
----
+# Newton Developer Grand Challenge: \#unscrewtheworld
 
 # Prerequisites
 
