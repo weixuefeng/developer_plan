@@ -1,6 +1,6 @@
 # Newton Developer Grand Challenge: \#unscrewtheworld
 
-# Prerequisites
+## Prerequisites
 
 Before we begin, we *need* these in place:
 
@@ -15,23 +15,23 @@ Before we begin, we *need* these in place:
 
 ---
 
-# Aims
+## Aims
 
-## Attract developers
+### Attract developers
 
 We're about more than just blockchain, so we can attract IoT, AI, and general developers too.
 
-## Attract users to Newton ecosystem
+### Attract users to Newton ecosystem
 
 The world has enough gambling and cryptocurrency apps. Let's build something different and useful.
 
-## Leverage Newton's tech stack
+### Leverage Newton's tech stack
 
 NewChain, NewIoT, NewAI, etc, as well as our USPs like subchains.
 
 ---
 
-# How? Global Challenge to Build a Community Economy
+## How? Global Challenge to Build a Community Economy
 
 Inequality has screwed up the world. With our Community Economy Challenge, we work with the Newton community to #unscrewtheworld
 
@@ -41,7 +41,7 @@ Inequality has screwed up the world. With our Community Economy Challenge, we wo
 
 ---
 
-# Types of Projects
+## Types of Projects
 
 Focus on specific scenarios rather than open-ended contest:
 
@@ -51,15 +51,15 @@ Focus on specific scenarios rather than open-ended contest:
 
 ---
 
-# Activities
+## Activities
 
-## Offline
+### Offline
 
 * Kick-off hackathons organized by global community
 * Ongoing community meetups - tie in with 100 City Tour
 * Conferences/workshops/etc
 
-## Online
+### Online
 
 * Project submission and voting for global challenge
 * Virtual meetups for more global coordination
@@ -67,7 +67,7 @@ Focus on specific scenarios rather than open-ended contest:
 
 ---
 
-# Infrastructure
+## Infrastructure
 
 We need a dedicated system to solicit proposals, allow feedback and voting, and let projects give regular updates. I've shortlisted [Decidim](https://decidim.org/), [Your Priorities](https://citizens.is/), and [Consul](http://consulproject.org/en/), and I'm presently running deployment tests.
 
@@ -77,11 +77,11 @@ We will also need a workflow for developers to get their Dapps into Newton's Dap
 
 ---
 
-# Appendix
+## Appendix
 
 ---
 
-# How Does Voting Work?
+## How Does Voting Work?
 
 Each month, NEW users are issued voting tokens ("vokens") based on how many NEW they have. 1 NEW = 1 VOK. VOK tokens are:
 * Non-transferable - so users can't buy/sell votes
@@ -96,29 +96,29 @@ We could potentially use the voken model for consensus building and voting on ot
 
 ---
 
-# Inspiration
+## Inspiration
 
 ---
 
-# [UN Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
+## [UN Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
 
 ![](images/unsdg.jpg)
 
 ---
 
-# Developer Challenge like [X Prize](https://www.xprize.org/)
+## Developer Challenge like [X Prize](https://www.xprize.org/)
 
 ![](images/xprize.png)
 
 ---
 
-# Hackathon like [NASA Space Apps Challenge](https://2018.spaceappschallenge.org/)
+## Hackathon like [NASA Space Apps Challenge](https://2018.spaceappschallenge.org/)
 
 ![](images/space_apps.jpeg)
 
 ---
 
-# Voting like [Reddit](http://www.reddit.com)
+## Voting like [Reddit](http://www.reddit.com)
 
 Community upvote or downvote candidate projects to decide which get funding
 
@@ -126,13 +126,13 @@ Community upvote or downvote candidate projects to decide which get funding
 
 ---
 
-# Detailed Processes
+## Detailed Processes
 
 ---
 
-# Hackathons
+## Hackathons
 
-## Physical
+### Physical
 
 Teams work together to create prototype and proposal for Newton Developer Challenge
 
@@ -145,7 +145,7 @@ Choose sites via how popular blockchain is per city on [Meetup.com](https://www.
 
 Promote via [Devpost](https://devpost.com/) - 400 USD/month
 
-## Virtual
+### Virtual
 
 Teams with accepted projects continuously develop their project publicly over Zoom or similar software.
 
@@ -154,9 +154,9 @@ Teams with accepted projects continuously develop their project publicly over Zo
 
 ---
 
-# Project Submission
+## Project Submission
 
-## Submission criteria
+### Submission criteria
 
 * Must be completely open-source *(which licenses?)*
 * Team, not individual
@@ -166,20 +166,20 @@ Teams with accepted projects continuously develop their project publicly over Zo
 
 ---
 
-# Project Selection
+## Project Selection
 
-## Aims
+### Aims
 
 * Maximize participation and get more verified users involved in ecosystem
 * Choose quality projects to fund
 
-## How
+### How
 
 * Votes tied to NewID and power determined by NewForce rather than number of NEW held
 * Expert advisors to provide feedback and advice via Reddit-like forum
 * Initial vote unlocks first set of funding. Upon hitting milestones, teams are assessed on their achievement (via smart contract and oracalization if possible) and Newton users vote on whether to continue their funding for next milestone.
 
-## Voting criteria and weights
+### Voting criteria and weights
 
 In SpaceGAMBIT, we awarded each project a maximum of 20 points, based on the following:
 
@@ -193,7 +193,7 @@ In SpaceGAMBIT, we awarded each project a maximum of 20 points, based on the fol
 
 ---
 
-# Project Support
+## Project Support
 
 To help projects (and thus Newton) to succeed, we need:
 
@@ -204,23 +204,23 @@ To help projects (and thus Newton) to succeed, we need:
 
 ---
 
-# Marketing
+## Marketing
 
-## Community Ambassadors
+### Community Ambassadors
 
 * Find candidate supernodes for ambassadors in target cities (via popularity on [Meetup.com](https://www.meetup.com/topics/blockchain/))
 * Each candidate gives presentation on Newton tech via Skype or [Zoom](http://www.zoom.us). Best get selected
 * These ambassadors then train other ambassadors
 * Ambassadors paid in NEW/NewForce
 
-## Video and Podcasts
+### Video and Podcasts
 
 Work with Newton Media Team on this, both for promoting the challenge and individual developer projects
 
 * Give developers an ego boost
 * Podcast content - top 10 Newton Dapps, developer interviews, community update, etc
 
-## Web
+### Web
 
 * Landing pages on Newton's website for challenge, hackathons, and each project
 * Regular updates to Newton community via social media channels
