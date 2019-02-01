@@ -13,8 +13,6 @@ Before we begin, we *need* these in place:
     * Subchain to manage voting
 * Promotional materials
 
----
-
 ## Aims
 
 ### Attract developers
@@ -29,8 +27,6 @@ The world has enough gambling and cryptocurrency apps. Let's build something dif
 
 NewChain, NewIoT, NewAI, etc, as well as our USPs like subchains.
 
----
-
 ## How? Global Challenge to Build a Community Economy
 
 Inequality has screwed up the world. With our Community Economy Challenge, we work with the Newton community to #unscrewtheworld
@@ -39,8 +35,6 @@ Inequality has screwed up the world. With our Community Economy Challenge, we wo
 * Community votes on what gets funded with NEW tokens
 * Meetups, hackathons, workshops in real life and virtually to build community
 
----
-
 ## Types of Projects
 
 Focus on specific scenarios rather than open-ended contest:
@@ -48,8 +42,6 @@ Focus on specific scenarios rather than open-ended contest:
 * Enable fair commerce
 * Cut out middlemen
 * Increase equality - "Why are you working for a billionaire when you deserve to be richer?"
-
----
 
 ## Activities
 
@@ -65,8 +57,6 @@ Focus on specific scenarios rather than open-ended contest:
 * Virtual meetups for more global coordination
 * Youtube/podcast/etc to promote
 
----
-
 ## Infrastructure
 
 We need a dedicated system to solicit proposals, allow feedback and voting, and let projects give regular updates. I've shortlisted [Decidim](https://decidim.org/), [Your Priorities](https://citizens.is/), and [Consul](http://consulproject.org/en/), and I'm presently running deployment tests.
@@ -75,11 +65,7 @@ We need a dedicated system to solicit proposals, allow feedback and voting, and 
 
 We will also need a workflow for developers to get their Dapps into Newton's Dapp store.
 
----
-
 ## Appendix
-
----
 
 ## How Does Voting Work?
 
@@ -94,29 +80,19 @@ Users then transfer their vokens to the projects they like. At the end of the mo
 
 We could potentially use the voken model for consensus building and voting on other areas of Newton, e.g. NEPs.
 
----
-
 ## Inspiration
-
----
 
 ## [UN Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
 
 ![](images/unsdg.jpg)
 
----
-
 ## Developer Challenge like [X Prize](https://www.xprize.org/)
 
 ![](images/xprize.png)
 
----
-
 ## Hackathon like [NASA Space Apps Challenge](https://2018.spaceappschallenge.org/)
 
 ![](images/space_apps.jpeg)
-
----
 
 ## Voting like [Reddit](http://www.reddit.com)
 
@@ -124,11 +100,7 @@ Community upvote or downvote candidate projects to decide which get funding
 
 ![](images/reddit.png)
 
----
-
 ## Detailed Processes
-
----
 
 ## Hackathons
 
@@ -152,8 +124,6 @@ Teams with accepted projects continuously develop their project publicly over Zo
 * Aim: Support and promotion of projects 
 * Duration: 7-90 days
 
----
-
 ## Project Submission
 
 ### Submission criteria
@@ -163,8 +133,6 @@ Teams with accepted projects continuously develop their project publicly over Zo
 * Must align with challenge goals
 * Project lead must have NewID
 * Must have white paper, public git repo, blog
-
----
 
 ## Project Selection
 
@@ -191,8 +159,6 @@ In SpaceGAMBIT, we awarded each project a maximum of 20 points, based on the fol
 | ???       | Can't remember this one off top of my head. Need to dig it out | 0-5      |
 | **Total** |                                                                | **0-20** |
 
----
-
 ## Project Support
 
 To help projects (and thus Newton) to succeed, we need:
@@ -201,8 +167,6 @@ To help projects (and thus Newton) to succeed, we need:
 * Access to advisors and mentors
 	* Can use Newton advisors for this
 * Marketing support - see later slide
-
----
 
 ## Marketing
 
