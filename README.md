@@ -5,6 +5,9 @@
 Before we begin, we *need* these in place:
 
 * Documentation
+	* API reference
+	* Example code
+	* Tutorials
 * Partner MOUs
 * Online infrastructure
   * Community website to attract users
@@ -12,6 +15,8 @@ Before we begin, we *need* these in place:
   * Challenge website to collect and vote on projects
     * Subchain to manage voting
 * Promotional materials
+	* Newton vs ETH/EOS/etc
+	* Highlight Newton's strengths
 
 ## Aims
 
@@ -21,11 +26,11 @@ We're about more than just blockchain, so we can attract IoT, AI, and general de
 
 ### Attract users to Newton ecosystem
 
-The world has enough gambling and cryptocurrency apps. Let's build something different and useful.
+The world has enough gambling and virtual pet Dapps. Let's build something different and useful.
 
 ### Leverage Newton's tech stack
 
-NewChain, NewIoT, NewAI, etc, as well as our USPs like subchains.
+NewChain, NewIoT, NewAI, etc, as well as our unique selling points like subchains.
 
 ## How? Global Challenge to Build a Community Economy
 
@@ -37,16 +42,20 @@ Inequality has screwed up the world. With our Community Economy Challenge, we wo
 
 ## Types of Projects
 
-Focus on specific scenarios rather than open-ended contest:
+Focus on specific challenges from the [UN Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/) rather than open-ended contest:
 
+* Reduce poverty (UN Goal 1)
+* Create sustainable economic growth (UN Goal 8)
+* Industry, innovation, infrastructure (UN Goal 9)
 * Enable fair commerce
 * Cut out middlemen
-* Increase equality - "Why are you working for a billionaire when you deserve to be richer?"
+* Increase equality - "Why are you working for a billionaire when you deserve to be richer?" (UN Goal 10)
 
 ## Activities
 
 ### Offline
 
+* Speaking tour to promote the upcoming developer challenge
 * Kick-off hackathons organized by global community
 * Ongoing community meetups - tie in with 100 City Tour
 * Conferences/workshops/etc
@@ -63,11 +72,30 @@ We need a dedicated system to solicit proposals, allow feedback and voting, and 
 
 ![Your Priorities App](images/yrpri.jpg)
 
-We will also need a workflow for developers to get their Dapps into Newton's Dapp store.
+We will also need a clear process for developers to get their Dapps into Newton's Dapp store (both testnet and mainnet, for testers/early adopters and end users respectively)
 
 ## Appendix
 
 ## How Does Voting Work?
+
+### Revised Concept
+
+Similar to community node program.
+
+Two "parties":
+
+* Voters
+* Projects
+
+1. Potential voters can stake NEW tokens to vote for a project
+2. If a project gets over 50 voters, they will become a candidate
+3. From then on, for every NEW staked, the project will receive one NEW from the Newton Foundation
+4. Voters who elected the project receive NF for every transaction made by end-users in the Dapp
+5. Projects can pitch voters new ideas to vote on to decide future direction of Dapp
+
+<p style="color: #999">
+
+### Original Concept
 
 Each month, NEW users are issued voting tokens ("vokens") based on how many NEW they have. 1 NEW = 1 VOK. VOK tokens are:
 * Non-transferable - so users can't buy/sell votes
@@ -79,6 +107,8 @@ Vokens are a separate token running on a subchain of Newchain. All voting is per
 Users then transfer their vokens to the projects they like. At the end of the month, the project receives the equivalent amount of NEW from the Newton Foundation.
 
 We could potentially use the voken model for consensus building and voting on other areas of Newton, e.g. NEPs.
+
+</p>
 
 ## Inspiration
 
