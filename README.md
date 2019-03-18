@@ -158,7 +158,7 @@ Teams with accepted projects continuously develop their project publicly over Zo
 
 ### Submission criteria
 
-* Must be completely open-source *(which licenses?)*
+* Must be completely open-source *(MIT license is used by EOS. GNU by Ethereum. Do we mandate specific license or let projects choose own?)*
 * Team, not individual
 * Must align with challenge goals
 * Project lead must have NewID
